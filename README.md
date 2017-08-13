@@ -1,3 +1,28 @@
+<h2>Blogs and Websites</h2>
+
+1. http://krebsonsecurity.com/
+
+2. http://schneier.com/
+
+3. https://nakedsecurity.sophos.com
+
+4. https://troyhunt.com
+
+5. https://dankaminsky.com/
+
+6. https://www.grahamcluley.com/
+
+7. https://hackerone.com/hacktivity
+
+8. https://security.googleblog.com/
+
+9. http://news.ycombinator.com/
+
+10. http://blog.trendmicro.com/
+
+
+<h2>Mailing list subscriptions</h2>
+
 1. Redhat security advisories (rhsa-announce@redhat.com)
 
 2. US-CERT advisories (us-cert@ncas.us-cert.gov)
