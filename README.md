@@ -10,18 +10,14 @@
 
 6. Linux kernel mailing list (linux-kernel@vger.kernel.org)
 
-7. Cassandra mailing list (user@cassandra.apache.org)
+7. O'Reilly Security Newsletter (oreilly@post.oreilly.com)
 
-8. Elastic forum (discuss.elastic.co)
+8. CyberheistNews (stus@knowbe4.com)
 
-9. O'Reilly Security Newsletter (oreilly@post.oreilly.com)
+9. Recorded future (info@recordedfuture.com)
 
-10. CyberheistNews (stus@knowbe4.com)
+10. Cryptogram (https://www.schneier.com/crypto-gram/)
 
-11. Recorded future (info@recordedfuture.com)
+11. Have I been Pwned (https://haveibeenpwned.com/)
 
-12. Cryptogram (https://www.schneier.com/crypto-gram/)
-
-13. Have I been Pwned (https://haveibeenpwned.com/)
-
-14. The Cryptography and Cryptography Policy Mailing List (http://www.metzdowd.com/mailman/listinfo/cryptography)
+12. The Cryptography and Cryptography Policy Mailing List (http://www.metzdowd.com/mailman/listinfo/cryptography)
