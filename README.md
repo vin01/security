@@ -46,3 +46,18 @@
 11. Have I been Pwned (https://haveibeenpwned.com/)
 
 12. The Cryptography and Cryptography Policy Mailing List (http://www.metzdowd.com/mailman/listinfo/cryptography)
+
+<h2>Twitter</h2>
+
+1. https://twitter.com/gcluley
+
+2. https://twitter.com/campuscodi
+
+3. https://twitter.com/peterkruse
+
+4. https://twitter.com/jaysonstreet
+
+5. https://twitter.com/fransrosen
+
+6. https://twitter.com/avlidienbrunn
+
