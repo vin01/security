@@ -61,3 +61,8 @@
 
 6. https://twitter.com/SwiftOnSecurity
 
+7. https://twitter.com/VessOnSecurity
+
+8. https://twitter.com/taviso
+
+9. https://twitter.com/thegrugq
