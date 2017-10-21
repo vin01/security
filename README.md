@@ -59,5 +59,5 @@
 
 5. https://twitter.com/fransrosen
 
-6. https://twitter.com/avlidienbrunn
+6. https://twitter.com/SwiftOnSecurity
 
