@@ -47,6 +47,18 @@
 
 12. The Cryptography and Cryptography Policy Mailing List (http://www.metzdowd.com/mailman/listinfo/cryptography)
 
+<h2>Podcasts</h2>
+
+1. Darknet Diaries (https://darknetdiaries.com/)
+
+2. Risky Business (https://risky.biz/)
+
+3. Malicious Life (https://malicious.life/)
+
+4. Smashing Security (https://www.smashingsecurity.com/)
+
+5. Root Access (https://www.rootaccesspodcast.com)
+
 <h2>Twitter</h2>
 
 1. https://twitter.com/gcluley
